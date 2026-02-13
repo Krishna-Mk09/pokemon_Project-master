@@ -1,0 +1,73 @@
+.HeaderMain {
+  display: flex;
+  justify-content: center;
+
+}
+
+
+.heas1 {
+
+  height: 100px;
+  width: 110px;
+  border-radius: 120px;
+
+}
+
+.heas {
+  height: 100px;
+  width: 110px;
+  border-radius: 120px;
+
+}
+
+
+body, h1, p {
+  margin: 0;
+  padding: 0;
+}
+
+
+.pokemon-header {
+  color: #fff;
+  text-align: center;
+  padding-top: 15px;
+  margin-top: auto;
+  background-repeat: no-repeat;
+  background-color: #0a0a0a;
+
+}
+
+.header-title {
+  font-size: 3em;
+  text-transform: uppercase;
+  letter-spacing: 6px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  margin-top: auto;
+
+}
+
+
+.accent {
+  color: #FFD700;
+}
+
+
+.header-subtitle {
+  font-size: 1.5em;
+  margin-top: 20px;
+}
+
+.header-content {
+  background: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 10px;
+  display: inline-block;
+  margin-top: 0%;
+
+}
+
+.header-content {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
